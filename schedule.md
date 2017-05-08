@@ -185,8 +185,6 @@ NB All activities will take place in the Training Suite, unless otherwise stated
 | 1430 | Tea Break and Discussion |  |
 | 1500 | Practical Session |  |
 
-
-
 ## Friday 11th August
 
 ### Translations and Tipping the Balance
@@ -199,7 +197,6 @@ NB All activities will take place in the Training Suite, unless otherwise stated
 | 1030 | Tea Break and Discussion |  |
 | 1100 | PEDAGOGICAL LECTURE - Peter Van Esse |  |
 | 1200 | Concluding Remarks |  |
-|  |  |  |
 
 
 
