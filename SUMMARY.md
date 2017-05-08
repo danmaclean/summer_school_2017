@@ -1,6 +1,6 @@
 # Table of contents
 
-• \[Course Schedule\]\(schedule.md\)
+[Course Schedule](schedule.md)
 
 
 
