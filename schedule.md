@@ -44,9 +44,16 @@ NB All activities will take place in the Training Suite, unless otherwise stated
 | :--- | :--- | :--- |
 | 1130 | PEDAGOGICAL LECTURE -                    Dan MacLean |  |
 | 1230 | Lunch | NRP Venues |
-| 1330 | KEYNOTE LECTURE -                                DIANE SAUNDERS - TBC |  |
+| 1330 | KEYNOTE LECTURE -                                DIANE SAUNDERS - TBC | Jane Rogers Seminar Room at EI |
 | 1430 | Tea Break and Discussion |  |
 | 1500 | Practical Session |  |
+| 1730 | Social Session with TSL Students |  |
+
+
+
+## Thursday 3rd August
+
+### Effectors and Plant Immunity
 
 
 
