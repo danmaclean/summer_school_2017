@@ -16,13 +16,15 @@
 
 NB All activities will take place in the Training Suite, unless otherwise stated
 
-
-
 ## Tuesday 1st August
 
 ### Resistance Proteins
 
-
+| Time | Activity | Venue |
+| :--- | :--- | :--- |
+| 0930 | Pedagogical Lecture - Jonathan Jones |  |
+| 1100 | Coffee Break and Discussion |  |
+| 1130 |  |  |
 
 
 
