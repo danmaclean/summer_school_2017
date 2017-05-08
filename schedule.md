@@ -1,4 +1,4 @@
-1. [ ] # Course schedule
+# Course schedule
 
 ## Monday 31st July
 
