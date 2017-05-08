@@ -30,15 +30,13 @@ NB All activities will take place in the Training Suite, unless otherwise stated
 | 1430 | Tea Break and Discussion |  |
 | 1500 | Practical Session |  |
 
-## Wednesday 1st August
+## Wednesday 2nd August
 
 ### Resistance Proteins
 
 | Time | Activity | Venue |
 | :--- | :--- | :--- |
 | 0930 | Practical Session |  |
-
-
 
 ### Genomic Resources and Bioinformatics for Plant Microbe Interactions
 
@@ -47,6 +45,8 @@ NB All activities will take place in the Training Suite, unless otherwise stated
 | 1130 | PEDAGOGICAL LECTURE -                    Dan MacLean |  |
 | 1230 | Lunch | NRP Venues |
 | 1330 | KEYNOTE LECTURE -                                DIANE SAUNDERS - TBC |  |
+| 1430 | Tea Break and Discussion |  |
+| 1500 | Practical Session |  |
 
 
 
