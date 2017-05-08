@@ -23,8 +23,20 @@ NB All activities will take place in the Training Suite, unless otherwise stated
 | Time | Activity | Venue |
 | :--- | :--- | :--- |
 | 0930 | Pedagogical Lecture - Jonathan Jones |  |
-| 1100 | Coffee Break and Discussion |  |
-| 1130 |  |  |
+| 1100 | Tea Break and Discussion |  |
+| 1130 | Practical Session |  |
+| 1230 | Lunch | NRP Venues |
+| 1330 | KEYNOTE LECTURE - JiJIE CHAI  -         Structural Study of Plant Receptor     Kinases | Seminar Room G34/35 |
+| 1430 | Tea Break and Discussion |  |
+| 1500 | Practical Session |  |
+
+
+
+## Wednesday 1st August
+
+### Resistance Proteins
+
+
 
 
 
