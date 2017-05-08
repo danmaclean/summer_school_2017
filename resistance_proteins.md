@@ -28,7 +28,7 @@ Plant receptor kinases \(RKs\) are a large family of single transmembrane protei
 >
 > ### From 1999 to 2004, he worked as postdoctoral fellow at Princeton University, where he started his research in structural biology.
 >
-> ### In July 2004, he joined the National Institute of Biological Sciences as an independent investigator, where he established his own research programs, structural study of plant receptor kinases  and NOD-like receptors. After working there for six and half years, he moved to Tsinghua University and continued his research as a full professor.  
+> ### In July 2004, he joined the National Institute of Biological Sciences as an independent investigator, where he established his own research programs, structural study of plant receptor kinases  and NOD-like receptors. After working there for six and half years, he moved to Tsinghua University and continued his research as a full professor.
 >
 > ### Early last year, he was awarded with the Alexander von Humboldt Professorship, and he moved to Cologne late March of 2017. Jijie has published a number of papers on RLKs and NLRs, advancing our understanding the mechanisms of RLK activation and NLR inhibition and activation.
 
@@ -36,9 +36,9 @@ Jijie is happily married and the father of a daughter. He is currently living in
 
 ---
 
-## Practical Session 
+## Practical Session
 
-## Model pathosystems and effector triggered immunity readouts 
+## Model pathosystems and effector triggered immunity readouts
 
 ### Led by Zane Duxbury
 
@@ -48,15 +48,13 @@ Jijie is happily married and the father of a daughter. He is currently living in
 2. Understand and recognise the lifecycle and symptoms of some common diseases
 3. Understand transient expression systems for determining relationship between **R** and **avirulence** genes
 
+The plant immune system contains both cell surface and intracellular receptors. Cell surface receptors often confer broad spectrum recognition to conserved pathogen-associated molecular patterns \(PAMPs\), and upon recognition the plant mounts an immune response termed PAMP-triggered immunity \(PTI\). Pathogens co-evolve with their hosts and can overcome PTI through the evolution of proteins they secrete into plants, termed effectors, which suppress components of the PTI machinery. Plant intracellular receptors can detect effectors by binding them directly or by indirectly recognising their activity; this recognition triggers a strong immune response \(effector-trigger immunity; ETI\) that shares molecular components with PTI but is often stronger and is characterized by a cell-death response termed the hypersensitive response \(HR\). A recognised effector leads to loss of virulence in resistant plants with the cognate intracellular receptor, and is hence termed an avirulence factor \(Avr\) in this case. The intracellular receptors are encoded by Resistance \(R\) genes that have been strongly selected for by plant breeders for the strain-specific resistance conferred to pathogens that have broken other resistance mechanisms. This co-evolution of pathogen virulence versus plant immunity is encompassed by the “zig-zag” model of plant immunity \(Figure 1\).
+
+![](/assets/jones_fig1_prac.png)
+
+Figure 1: The “zig-zag” model of plant immunity \(originally postulated in Jones and Dangl, 2006, Nature\). The ultimate amplitude of defence is the combined sum of resistance output \(ETI+PTI\) and the difference of the effect of pathogen effectors \(-ETS; effector triggered susceptibility\). This diagram captures the observation that many PTI and ETI outputs are similar, but HR is associated specifically with successful ETI, and that virulent pathogens with specific effectors are able to suppress immunity to compromise immunity. Image is from Pumplin and Voinnet, 2013, Nat Rev Microbiol.
 
 
-The plant immune system contains both cell surface and intracellular receptors. Cell surface receptors often confer broad spectrum recognition to conserved pathogen-associated molecular patterns \(PAMPs\), and upon recognition the plant mounts an immune response termed PAMP-triggered immunity \(PTI\). Pathogens co-evolve with their hosts and can overcome PTI through the evolution of proteins they secrete into plants, termed effectors, which suppress components of the PTI machinery. Plant intracellular receptors can detect effectors by binding them directly or by indirectly recognising their activity; this recognition triggers a strong immune response \(effector-trigger immunity; ETI\) that shares molecular components with PTI but is often stronger and is characterized by a cell-death response termed the hypersensitive response \(HR\). A recognised effector leads to loss of virulence in resistant plants with the cognate intracellular receptor, and is hence termed an avirulence factor \(Avr\) in this case. The intracellular receptors are encoded by Resistance \(R\) genes that have been strongly selected for by plant breeders for the strain-specific resistance conferred to pathogens that have broken other resistance mechanisms. This co-evolution of pathogen virulence versus plant immunity is encompassed by the “zig-zag” model of plant immunity \(Figure 1\).
 
-
-
-
-
-The aim of the practical organised by the Jones group will be to familiarise you with the use of model organisms to probe the plant immune system. The practical will include a general introduction to the oomycete pathogens of Arabidopsis: Albugo species and Hyaloperonospora arabidopsidis \(white rust and downy mildew respectively\), the bacterial species Pseudomonas syringae and P. fluorescens, and the pathosystem of potato and the oomycete Phytophthora infestans \(late blight\) \(Figure 2\). We will familiarise you with the life cycle, pathogenesis and symptoms of these pathogens. We will use various techniques to assess the growth of pathogens on their hosts and to assess immune responses mounted against these pathogens. For example, we will use light microscopy of trypan-blue stained Arabidopsis infected with downy mildew to qualitatively assess the success of infection and resistance of different genotypes of the pathogen and plant. We will introduce transient expression systems such as bombardment and Agrobacterium-mediated Nicotiana tabacum transformation \(agroinfiltration\) to determine the relationship between R- and avirulence-genes responsible for compatible \(resulting in disease\) or incompatible \(resulting in healthy plants\) interactions.
-
-
+The aim of this practical session will be to familiarise you with the use of model organisms to probe the plant immune system. The practical will include a general introduction to the oomycete pathogens of Arabidopsis: Albugo species and Hyaloperonospora arabidopsidis \(white rust and downy mildew respectively\), the bacterial species Pseudomonas syringae and P. fluorescens, and the pathosystem of potato and the oomycete Phytophthora infestans \(late blight\) \(Figure 2\). We will familiarise you with the life cycle, pathogenesis and symptoms of these pathogens. We will use various techniques to assess the growth of pathogens on their hosts and to assess immune responses mounted against these pathogens. For example, we will use light microscopy of trypan-blue stained Arabidopsis infected with downy mildew to qualitatively assess the success of infection and resistance of different genotypes of the pathogen and plant. We will introduce transient expression systems such as bombardment and Agrobacterium-mediated Nicotiana tabacum transformation \(agroinfiltration\) to determine the relationship between R- and avirulence-genes responsible for compatible \(resulting in disease\) or incompatible \(resulting in healthy plants\) interactions.
 
