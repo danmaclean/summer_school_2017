@@ -54,13 +54,15 @@ The plant immune system contains both cell surface and intracellular receptors. 
 
 Figure 1: The “zig-zag” model of plant immunity \(originally postulated in Jones and Dangl, 2006, Nature\). The ultimate amplitude of defence is the combined sum of resistance output \(ETI+PTI\) and the difference of the effect of pathogen effectors \(-ETS; effector triggered susceptibility\). This diagram captures the observation that many PTI and ETI outputs are similar, but HR is associated specifically with successful ETI, and that virulent pathogens with specific effectors are able to suppress immunity to compromise immunity. Image is from Pumplin and Voinnet, 2013, Nat Rev Microbiol.
 
-The aim of this practical session will be to familiarise you with the use of model organisms to probe the plant immune system. The practical will include a general introduction to the oomycete pathogens of Arabidopsis: Albugo species and Hyaloperonospora arabidopsidis \(white rust and downy mildew respectively\), the bacterial species Pseudomonas syringae and P. fluorescens, and the pathosystem of potato and the oomycete Phytophthora infestans \(late blight\) \(Figure 2\). 
-
-
-
-
-
-
+The aim of this practical session will be to familiarise you with the use of model organisms to probe the plant immune system. The practical will include a general introduction to the oomycete pathogens of Arabidopsis: Albugo species and Hyaloperonospora arabidopsidis \(white rust and downy mildew respectively\), the bacterial species Pseudomonas syringae and P. fluorescens, and the pathosystem of potato and the oomycete Phytophthora infestans \(late blight\) \(Figure 2\).
 
 We will familiarise you with the life cycle, pathogenesis and symptoms of these pathogens. We will use various techniques to assess the growth of pathogens on their hosts and to assess immune responses mounted against these pathogens. For example, we will use light microscopy of trypan-blue stained Arabidopsis infected with downy mildew to qualitatively assess the success of infection and resistance of different genotypes of the pathogen and plant. We will introduce transient expression systems such as bombardment and Agrobacterium-mediated Nicotiana tabacum transformation \(agroinfiltration\) to determine the relationship between R- and avirulence-genes responsible for compatible \(resulting in disease\) or incompatible \(resulting in healthy plants\) interactions.
+
+
+
+
+
+![](/assets/jones_fig2_prac.jpg)
+
+Figure 2: Macroscopic characteristics of plant-pathogen interactions. a, b\) Sporulating Hyaloperonospora arabidopsidis \(seen on the edges of the leaf in b\) growing on Arabidopsis thaliana leaves. Albugo is also growing on the abaxial surface of the leaf in b. c\) Trypan blue staining of a H. arabidopsidis-infected leaf of Arabidopsis. d\) Foliar symptoms of Phytophthora infestans infection of potato. e\) Hypersensitive cell death in tobacco leaf resulting from Agrobacterium-mediated transformation with cognate R gene and Avr gene.
 
